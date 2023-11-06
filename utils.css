@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.item-center{
+    text-align: center;
+}
+.mt{
+    margin-top: 24px;
+}
+.container{
+    padding: 10px 0;
+}
+.header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.justify-content{
+    justify-content: center;
+}
